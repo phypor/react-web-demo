@@ -7,6 +7,7 @@ var {
   Text,
   View,
   Platform,
+  Image
 } = React;
 
 var ReactNativeWebExample = React.createClass({
@@ -26,6 +27,7 @@ var ReactNativeWebExample = React.createClass({
 });
 
 var styles = StyleSheet.create({
+  logo:{width:"60px"},
   container: {
     flex: 1,
     justifyContent: 'center',

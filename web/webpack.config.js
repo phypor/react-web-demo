@@ -5,7 +5,7 @@ var webpack = require('webpack');
 var HtmlPlugin = require('webpack-html-plugin');
 var HasteResolverPlugin = require('haste-resolver-webpack-plugin');
 
-var IP = '127.0.0.1';
+var IP ='127.0.0.1';
 var PORT = 3000;
 var NODE_ENV = process.env.NODE_ENV;
 var ROOT_PATH = path.resolve(__dirname, '..');

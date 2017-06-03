@@ -10,7 +10,7 @@ var {
   Image
 } = React;
 
-var ReactNativeWebExample = React.createClass({
+var ReactWebDemo = React.createClass({
   render: function() {
     return (
   <View style={styles.container}>
@@ -19,7 +19,7 @@ var ReactNativeWebExample = React.createClass({
         source={{uri: 'https://avatars3.githubusercontent.com/u/12208097?v=3&s=460'}}
       />
         <Text style={styles.welcome}>
-          Welcome to React Native!
+          Welcome to React Native ！
         </Text>
       </View>
     );
@@ -27,7 +27,7 @@ var ReactNativeWebExample = React.createClass({
 });
 
 var styles = StyleSheet.create({
-  logo:{width:"60px"},
+  logo:{width:60,height:60},
   container: {
     flex: 1,
     justifyContent: 'center',
@@ -46,14 +46,14 @@ var styles = StyleSheet.create({
   },
 });
 
-AppRegistry.registerComponent('ReactNativeWebExample', () => ReactNativeWebExample);
+AppRegistry.registerComponent('reactWebDemo', () => ReactWebDemo);
 
 
 if(Platform.OS == 'web'){
   var app = document.createElement('div');
   document.body.appendChild(app);
 
-  AppRegistry.runApplication('ReactNativeWebExample', {
+  AppRegistry.runApplication('reactWebDemo', {
     rootTag: app
   })
 }

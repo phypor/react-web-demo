@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "ReactNativeWebExample.app"
-               BlueprintName = "ReactNativeWebExample"
-               ReferencedContainer = "container:ReactNativeWebExample.xcodeproj">
+               BuildableName = "reactWebDemo.app"
+               BlueprintName = "reactWebDemo"
+               ReferencedContainer = "container:reactWebDemo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "ReactNativeWebExampleTests.xctest"
-               BlueprintName = "ReactNativeWebExampleTests"
-               ReferencedContainer = "container:ReactNativeWebExample.xcodeproj">
+               BuildableName = "reactWebDemoTests.xctest"
+               BlueprintName = "reactWebDemoTests"
+               ReferencedContainer = "container:reactWebDemo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -47,9 +47,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "ReactNativeWebExampleTests.xctest"
-               BlueprintName = "ReactNativeWebExampleTests"
-               ReferencedContainer = "container:ReactNativeWebExample.xcodeproj">
+               BuildableName = "reactWebDemoTests.xctest"
+               BlueprintName = "reactWebDemoTests"
+               ReferencedContainer = "container:reactWebDemo.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -57,9 +57,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "ReactNativeWebExample.app"
-            BlueprintName = "ReactNativeWebExample"
-            ReferencedContainer = "container:ReactNativeWebExample.xcodeproj">
+            BuildableName = "reactWebDemo.app"
+            BlueprintName = "reactWebDemo"
+            ReferencedContainer = "container:reactWebDemo.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -77,9 +77,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "ReactNativeWebExample.app"
-            BlueprintName = "ReactNativeWebExample"
-            ReferencedContainer = "container:ReactNativeWebExample.xcodeproj">
+            BuildableName = "reactWebDemo.app"
+            BlueprintName = "reactWebDemo"
+            ReferencedContainer = "container:reactWebDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -96,9 +96,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "ReactNativeWebExample.app"
-            BlueprintName = "ReactNativeWebExample"
-            ReferencedContainer = "container:ReactNativeWebExample.xcodeproj">
+            BuildableName = "reactWebDemo.app"
+            BlueprintName = "reactWebDemo"
+            ReferencedContainer = "container:reactWebDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

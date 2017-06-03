@@ -10,7 +10,7 @@ react-web start
 [or]
 node ./node_modules/react-web/local-cli/cli.js  start
 ```
-
+![react-web-bundle](https://github.com/phypor/react-web-demo/blob/master/images/react-web-bundle.PNG)
 Build web bundle:
 ```
 react-web bundle 

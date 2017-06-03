@@ -14,6 +14,8 @@ node ./node_modules/react-web/local-cli/cli.js  start
 Build web bundle:
 ```
 react-web bundle 
+[or]
+node ./node_modules/react-web/local-cli/cli.js  bundle
 ```
 
 Build android:

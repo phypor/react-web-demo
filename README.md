@@ -18,7 +18,7 @@ react-web bundle
 node ./node_modules/react-web/local-cli/cli.js  bundle
 ```
 
-Build android:
+Run android:
 ```
 react-native run-android
 ```

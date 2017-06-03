@@ -22,3 +22,4 @@ Build android:
 ```
 react-native run-android
 ```
+![react-web-android](https://github.com/phypor/react-web-demo/blob/master/images/react-web-android.jpg)
